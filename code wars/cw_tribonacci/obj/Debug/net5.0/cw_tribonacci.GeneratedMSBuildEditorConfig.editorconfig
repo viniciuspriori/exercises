@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = cw_fibonnaciproduct
-build_property.ProjectDir = c:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\
+build_property.RootNamespace = cw_tribonacci
+build_property.ProjectDir = C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_tribonacci\
