@@ -1,0 +1,16 @@
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\bin\Debug\net5.0\cw_fibonnaciproduct.exe
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\bin\Debug\net5.0\cw_fibonnaciproduct.deps.json
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\bin\Debug\net5.0\cw_fibonnaciproduct.runtimeconfig.json
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\bin\Debug\net5.0\cw_fibonnaciproduct.runtimeconfig.dev.json
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\bin\Debug\net5.0\cw_fibonnaciproduct.dll
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\bin\Debug\net5.0\ref\cw_fibonnaciproduct.dll
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\bin\Debug\net5.0\cw_fibonnaciproduct.pdb
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\obj\Debug\net5.0\cw_fibonnaciproduct.csproj.AssemblyReference.cache
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\obj\Debug\net5.0\cw_fibonnaciproduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\obj\Debug\net5.0\cw_fibonnaciproduct.AssemblyInfoInputs.cache
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\obj\Debug\net5.0\cw_fibonnaciproduct.AssemblyInfo.cs
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\obj\Debug\net5.0\cw_fibonnaciproduct.csproj.CoreCompileInputs.cache
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\obj\Debug\net5.0\cw_fibonnaciproduct.dll
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\obj\Debug\net5.0\ref\cw_fibonnaciproduct.dll
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\obj\Debug\net5.0\cw_fibonnaciproduct.pdb
+C:\Users\vaspr\Desktop\c#\exercises\code wars\cw_fibonnaciproduct\obj\Debug\net5.0\cw_fibonnaciproduct.genruntimeconfig.cache

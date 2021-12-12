@@ -7,6 +7,8 @@ namespace cw_digitonlysum
         static void Main(string[] args)
         {
             Console.WriteLine(Number.DigitalRoot(4931938));
+
+            System.Console.WriteLine(Solution.DigitalRoot(4931938));
         }
     }
 }

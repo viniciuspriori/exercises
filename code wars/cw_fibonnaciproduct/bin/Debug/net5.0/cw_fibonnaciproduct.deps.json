@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cw_fibonnaciproduct/1.0.0": {
+        "runtime": {
+          "cw_fibonnaciproduct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cw_fibonnaciproduct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
