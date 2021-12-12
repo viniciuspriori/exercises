@@ -1,0 +1,16 @@
+C:\Users\vaspr\Desktop\c#\cw_jaden\bin\Debug\net5.0\cw_jaden.exe
+C:\Users\vaspr\Desktop\c#\cw_jaden\bin\Debug\net5.0\cw_jaden.deps.json
+C:\Users\vaspr\Desktop\c#\cw_jaden\bin\Debug\net5.0\cw_jaden.runtimeconfig.json
+C:\Users\vaspr\Desktop\c#\cw_jaden\bin\Debug\net5.0\cw_jaden.runtimeconfig.dev.json
+C:\Users\vaspr\Desktop\c#\cw_jaden\bin\Debug\net5.0\cw_jaden.dll
+C:\Users\vaspr\Desktop\c#\cw_jaden\bin\Debug\net5.0\ref\cw_jaden.dll
+C:\Users\vaspr\Desktop\c#\cw_jaden\bin\Debug\net5.0\cw_jaden.pdb
+C:\Users\vaspr\Desktop\c#\cw_jaden\obj\Debug\net5.0\cw_jaden.csproj.AssemblyReference.cache
+C:\Users\vaspr\Desktop\c#\cw_jaden\obj\Debug\net5.0\cw_jaden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaspr\Desktop\c#\cw_jaden\obj\Debug\net5.0\cw_jaden.AssemblyInfoInputs.cache
+C:\Users\vaspr\Desktop\c#\cw_jaden\obj\Debug\net5.0\cw_jaden.AssemblyInfo.cs
+C:\Users\vaspr\Desktop\c#\cw_jaden\obj\Debug\net5.0\cw_jaden.csproj.CoreCompileInputs.cache
+C:\Users\vaspr\Desktop\c#\cw_jaden\obj\Debug\net5.0\cw_jaden.dll
+C:\Users\vaspr\Desktop\c#\cw_jaden\obj\Debug\net5.0\ref\cw_jaden.dll
+C:\Users\vaspr\Desktop\c#\cw_jaden\obj\Debug\net5.0\cw_jaden.pdb
+C:\Users\vaspr\Desktop\c#\cw_jaden\obj\Debug\net5.0\cw_jaden.genruntimeconfig.cache

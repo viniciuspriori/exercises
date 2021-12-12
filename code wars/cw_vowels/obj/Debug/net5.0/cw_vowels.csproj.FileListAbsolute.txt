@@ -1,0 +1,16 @@
+C:\Users\vaspr\Desktop\c#\cw_vowels\obj\Debug\net5.0\cw_vowels.csproj.AssemblyReference.cache
+C:\Users\vaspr\Desktop\c#\cw_vowels\obj\Debug\net5.0\cw_vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaspr\Desktop\c#\cw_vowels\obj\Debug\net5.0\cw_vowels.AssemblyInfoInputs.cache
+C:\Users\vaspr\Desktop\c#\cw_vowels\obj\Debug\net5.0\cw_vowels.AssemblyInfo.cs
+C:\Users\vaspr\Desktop\c#\cw_vowels\obj\Debug\net5.0\cw_vowels.csproj.CoreCompileInputs.cache
+C:\Users\vaspr\Desktop\c#\cw_vowels\bin\Debug\net5.0\cw_vowels.exe
+C:\Users\vaspr\Desktop\c#\cw_vowels\bin\Debug\net5.0\cw_vowels.deps.json
+C:\Users\vaspr\Desktop\c#\cw_vowels\bin\Debug\net5.0\cw_vowels.runtimeconfig.json
+C:\Users\vaspr\Desktop\c#\cw_vowels\bin\Debug\net5.0\cw_vowels.runtimeconfig.dev.json
+C:\Users\vaspr\Desktop\c#\cw_vowels\bin\Debug\net5.0\cw_vowels.dll
+C:\Users\vaspr\Desktop\c#\cw_vowels\bin\Debug\net5.0\ref\cw_vowels.dll
+C:\Users\vaspr\Desktop\c#\cw_vowels\bin\Debug\net5.0\cw_vowels.pdb
+C:\Users\vaspr\Desktop\c#\cw_vowels\obj\Debug\net5.0\cw_vowels.dll
+C:\Users\vaspr\Desktop\c#\cw_vowels\obj\Debug\net5.0\ref\cw_vowels.dll
+C:\Users\vaspr\Desktop\c#\cw_vowels\obj\Debug\net5.0\cw_vowels.pdb
+C:\Users\vaspr\Desktop\c#\cw_vowels\obj\Debug\net5.0\cw_vowels.genruntimeconfig.cache

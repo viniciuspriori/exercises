@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cw_subarraysum/1.0.0": {
+        "runtime": {
+          "cw_subarraysum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cw_subarraysum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

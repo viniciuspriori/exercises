@@ -1,0 +1,16 @@
+C:\Users\vaspr\Desktop\c#\cw_anagram\bin\Debug\net5.0\cw_anagram.exe
+C:\Users\vaspr\Desktop\c#\cw_anagram\bin\Debug\net5.0\cw_anagram.deps.json
+C:\Users\vaspr\Desktop\c#\cw_anagram\bin\Debug\net5.0\cw_anagram.runtimeconfig.json
+C:\Users\vaspr\Desktop\c#\cw_anagram\bin\Debug\net5.0\cw_anagram.runtimeconfig.dev.json
+C:\Users\vaspr\Desktop\c#\cw_anagram\bin\Debug\net5.0\cw_anagram.dll
+C:\Users\vaspr\Desktop\c#\cw_anagram\bin\Debug\net5.0\ref\cw_anagram.dll
+C:\Users\vaspr\Desktop\c#\cw_anagram\bin\Debug\net5.0\cw_anagram.pdb
+C:\Users\vaspr\Desktop\c#\cw_anagram\obj\Debug\net5.0\cw_anagram.csproj.AssemblyReference.cache
+C:\Users\vaspr\Desktop\c#\cw_anagram\obj\Debug\net5.0\cw_anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaspr\Desktop\c#\cw_anagram\obj\Debug\net5.0\cw_anagram.AssemblyInfoInputs.cache
+C:\Users\vaspr\Desktop\c#\cw_anagram\obj\Debug\net5.0\cw_anagram.AssemblyInfo.cs
+C:\Users\vaspr\Desktop\c#\cw_anagram\obj\Debug\net5.0\cw_anagram.csproj.CoreCompileInputs.cache
+C:\Users\vaspr\Desktop\c#\cw_anagram\obj\Debug\net5.0\cw_anagram.dll
+C:\Users\vaspr\Desktop\c#\cw_anagram\obj\Debug\net5.0\ref\cw_anagram.dll
+C:\Users\vaspr\Desktop\c#\cw_anagram\obj\Debug\net5.0\cw_anagram.pdb
+C:\Users\vaspr\Desktop\c#\cw_anagram\obj\Debug\net5.0\cw_anagram.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\bin\Debug\net5.0\cw_countcharsonstring.exe
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\bin\Debug\net5.0\cw_countcharsonstring.deps.json
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\bin\Debug\net5.0\cw_countcharsonstring.runtimeconfig.json
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\bin\Debug\net5.0\cw_countcharsonstring.runtimeconfig.dev.json
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\bin\Debug\net5.0\cw_countcharsonstring.dll
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\bin\Debug\net5.0\ref\cw_countcharsonstring.dll
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\bin\Debug\net5.0\cw_countcharsonstring.pdb
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\obj\Debug\net5.0\cw_countcharsonstring.csproj.AssemblyReference.cache
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\obj\Debug\net5.0\cw_countcharsonstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\obj\Debug\net5.0\cw_countcharsonstring.AssemblyInfoInputs.cache
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\obj\Debug\net5.0\cw_countcharsonstring.AssemblyInfo.cs
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\obj\Debug\net5.0\cw_countcharsonstring.csproj.CoreCompileInputs.cache
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\obj\Debug\net5.0\cw_countcharsonstring.dll
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\obj\Debug\net5.0\ref\cw_countcharsonstring.dll
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\obj\Debug\net5.0\cw_countcharsonstring.pdb
+C:\Users\vaspr\Desktop\c#\cw_countcharsonstring\obj\Debug\net5.0\cw_countcharsonstring.genruntimeconfig.cache

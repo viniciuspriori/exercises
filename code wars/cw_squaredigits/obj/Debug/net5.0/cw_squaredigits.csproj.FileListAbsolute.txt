@@ -1,0 +1,16 @@
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\bin\Debug\net5.0\cw_squaredigits.exe
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\bin\Debug\net5.0\cw_squaredigits.deps.json
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\bin\Debug\net5.0\cw_squaredigits.runtimeconfig.json
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\bin\Debug\net5.0\cw_squaredigits.runtimeconfig.dev.json
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\bin\Debug\net5.0\cw_squaredigits.dll
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\bin\Debug\net5.0\ref\cw_squaredigits.dll
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\bin\Debug\net5.0\cw_squaredigits.pdb
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\obj\Debug\net5.0\cw_squaredigits.csproj.AssemblyReference.cache
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\obj\Debug\net5.0\cw_squaredigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\obj\Debug\net5.0\cw_squaredigits.AssemblyInfoInputs.cache
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\obj\Debug\net5.0\cw_squaredigits.AssemblyInfo.cs
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\obj\Debug\net5.0\cw_squaredigits.csproj.CoreCompileInputs.cache
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\obj\Debug\net5.0\cw_squaredigits.dll
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\obj\Debug\net5.0\ref\cw_squaredigits.dll
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\obj\Debug\net5.0\cw_squaredigits.pdb
+C:\Users\vaspr\Desktop\c#\cw_squaredigits\obj\Debug\net5.0\cw_squaredigits.genruntimeconfig.cache

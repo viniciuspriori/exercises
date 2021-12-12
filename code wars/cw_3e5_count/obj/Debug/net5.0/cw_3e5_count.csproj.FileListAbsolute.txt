@@ -1,0 +1,16 @@
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\bin\Debug\net5.0\cw_3e5_count.exe
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\bin\Debug\net5.0\cw_3e5_count.deps.json
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\bin\Debug\net5.0\cw_3e5_count.runtimeconfig.json
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\bin\Debug\net5.0\cw_3e5_count.runtimeconfig.dev.json
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\bin\Debug\net5.0\cw_3e5_count.dll
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\bin\Debug\net5.0\ref\cw_3e5_count.dll
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\bin\Debug\net5.0\cw_3e5_count.pdb
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\obj\Debug\net5.0\cw_3e5_count.csproj.AssemblyReference.cache
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\obj\Debug\net5.0\cw_3e5_count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\obj\Debug\net5.0\cw_3e5_count.AssemblyInfoInputs.cache
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\obj\Debug\net5.0\cw_3e5_count.AssemblyInfo.cs
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\obj\Debug\net5.0\cw_3e5_count.csproj.CoreCompileInputs.cache
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\obj\Debug\net5.0\cw_3e5_count.dll
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\obj\Debug\net5.0\ref\cw_3e5_count.dll
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\obj\Debug\net5.0\cw_3e5_count.pdb
+C:\Users\vaspr\Desktop\c#\cw_3e5_count\obj\Debug\net5.0\cw_3e5_count.genruntimeconfig.cache

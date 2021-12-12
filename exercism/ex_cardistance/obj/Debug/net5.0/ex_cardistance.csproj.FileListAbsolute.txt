@@ -1,0 +1,16 @@
+C:\Users\vaspr\Desktop\c#\ex_cardistance\bin\Debug\net5.0\ex_cardistance.exe
+C:\Users\vaspr\Desktop\c#\ex_cardistance\bin\Debug\net5.0\ex_cardistance.deps.json
+C:\Users\vaspr\Desktop\c#\ex_cardistance\bin\Debug\net5.0\ex_cardistance.runtimeconfig.json
+C:\Users\vaspr\Desktop\c#\ex_cardistance\bin\Debug\net5.0\ex_cardistance.runtimeconfig.dev.json
+C:\Users\vaspr\Desktop\c#\ex_cardistance\bin\Debug\net5.0\ex_cardistance.dll
+C:\Users\vaspr\Desktop\c#\ex_cardistance\bin\Debug\net5.0\ref\ex_cardistance.dll
+C:\Users\vaspr\Desktop\c#\ex_cardistance\bin\Debug\net5.0\ex_cardistance.pdb
+C:\Users\vaspr\Desktop\c#\ex_cardistance\obj\Debug\net5.0\ex_cardistance.csproj.AssemblyReference.cache
+C:\Users\vaspr\Desktop\c#\ex_cardistance\obj\Debug\net5.0\ex_cardistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaspr\Desktop\c#\ex_cardistance\obj\Debug\net5.0\ex_cardistance.AssemblyInfoInputs.cache
+C:\Users\vaspr\Desktop\c#\ex_cardistance\obj\Debug\net5.0\ex_cardistance.AssemblyInfo.cs
+C:\Users\vaspr\Desktop\c#\ex_cardistance\obj\Debug\net5.0\ex_cardistance.csproj.CoreCompileInputs.cache
+C:\Users\vaspr\Desktop\c#\ex_cardistance\obj\Debug\net5.0\ex_cardistance.dll
+C:\Users\vaspr\Desktop\c#\ex_cardistance\obj\Debug\net5.0\ref\ex_cardistance.dll
+C:\Users\vaspr\Desktop\c#\ex_cardistance\obj\Debug\net5.0\ex_cardistance.pdb
+C:\Users\vaspr\Desktop\c#\ex_cardistance\obj\Debug\net5.0\ex_cardistance.genruntimeconfig.cache

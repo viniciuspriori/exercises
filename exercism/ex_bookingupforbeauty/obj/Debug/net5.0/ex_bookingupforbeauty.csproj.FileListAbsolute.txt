@@ -1,0 +1,16 @@
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\bin\Debug\net5.0\ex_bookingupforbeauty.exe
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\bin\Debug\net5.0\ex_bookingupforbeauty.deps.json
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\bin\Debug\net5.0\ex_bookingupforbeauty.runtimeconfig.json
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\bin\Debug\net5.0\ex_bookingupforbeauty.runtimeconfig.dev.json
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\bin\Debug\net5.0\ex_bookingupforbeauty.dll
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\bin\Debug\net5.0\ref\ex_bookingupforbeauty.dll
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\bin\Debug\net5.0\ex_bookingupforbeauty.pdb
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\obj\Debug\net5.0\ex_bookingupforbeauty.csproj.AssemblyReference.cache
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\obj\Debug\net5.0\ex_bookingupforbeauty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\obj\Debug\net5.0\ex_bookingupforbeauty.AssemblyInfoInputs.cache
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\obj\Debug\net5.0\ex_bookingupforbeauty.AssemblyInfo.cs
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\obj\Debug\net5.0\ex_bookingupforbeauty.csproj.CoreCompileInputs.cache
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\obj\Debug\net5.0\ex_bookingupforbeauty.dll
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\obj\Debug\net5.0\ref\ex_bookingupforbeauty.dll
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\obj\Debug\net5.0\ex_bookingupforbeauty.pdb
+C:\Users\vaspr\Desktop\c#\ex_bookingupforbeauty\obj\Debug\net5.0\ex_bookingupforbeauty.genruntimeconfig.cache
