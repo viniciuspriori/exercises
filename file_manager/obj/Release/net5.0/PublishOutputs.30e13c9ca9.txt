@@ -1,0 +1,13 @@
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\file_manager.exe
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\file_manager.dll
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\file_manager.deps.json
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\file_manager.runtimeconfig.json
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\file_manager.pdb
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\System.Diagnostics.EventLog.dll
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\System.ServiceProcess.ServiceController.dll
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\Topshelf.dll
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\TopShelf.ServiceInstaller.dll
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\vaspr\Desktop\c#\projects\file_manager\bin\Release\net5.0\publish\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
