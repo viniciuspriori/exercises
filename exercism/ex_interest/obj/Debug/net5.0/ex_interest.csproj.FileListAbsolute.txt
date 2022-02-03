@@ -1,0 +1,16 @@
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\bin\Debug\net5.0\ex_interest.exe
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\bin\Debug\net5.0\ex_interest.deps.json
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\bin\Debug\net5.0\ex_interest.runtimeconfig.json
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\bin\Debug\net5.0\ex_interest.runtimeconfig.dev.json
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\bin\Debug\net5.0\ex_interest.dll
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\bin\Debug\net5.0\ref\ex_interest.dll
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\bin\Debug\net5.0\ex_interest.pdb
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\obj\Debug\net5.0\ex_interest.csproj.AssemblyReference.cache
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\obj\Debug\net5.0\ex_interest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\obj\Debug\net5.0\ex_interest.AssemblyInfoInputs.cache
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\obj\Debug\net5.0\ex_interest.AssemblyInfo.cs
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\obj\Debug\net5.0\ex_interest.csproj.CoreCompileInputs.cache
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\obj\Debug\net5.0\ex_interest.dll
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\obj\Debug\net5.0\ref\ex_interest.dll
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\obj\Debug\net5.0\ex_interest.pdb
+C:\Users\vaspr\Desktop\c#\exercises\exercism\ex_interest\obj\Debug\net5.0\ex_interest.genruntimeconfig.cache
