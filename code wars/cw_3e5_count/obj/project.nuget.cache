@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "K0IfMueTk6bm+sMCtOFTWHZ4lIRfqH4qplD7tKC1pPliKUUByCsnNbtwTFMyUogcNJFfNQw3+kd5WOulBJnfnQ==",
+  "dgSpecHash": "JlIr8XNj9P24UkrnFo2hxV8lO5YyihXI6S5Ap+gFHRe+7vyWZ8laAR7lludvNnWAfM0zpmuUOOycp4lNBQUifg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vaspr\\Desktop\\c#\\cw_3e5_count\\cw_3e5_count.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Vinicius\\Documents\\GitHub\\exercises\\code wars\\cw_3e5_count\\cw_3e5_count.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
